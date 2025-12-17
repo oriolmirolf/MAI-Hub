@@ -20,7 +20,7 @@ Access the specific content by clicking on the links below.
 
 ### 📘 Compulsory
 * **CI** - [Computational Intelligence](./Compulsory/CI)
-* **CV** - [Computational Vision](./Elective/CV)
+* **CV** - [Computational Vision](./Compulsory/CV)
 * **IHLT** - [Introduction to Human Language Technologies](./Compulsory/IHLT)
 * **IMAS** - [Introduction to Multi-Agent Systems](./Compulsory/IMAS)
 * **IML** - [Introduction to Machine Learning](./Compulsory/IML)
