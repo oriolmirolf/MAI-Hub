@@ -3,12 +3,8 @@
 **Type:** Compulsory
 
 ## 👥 Student Repositories
-Collection of repositories from MAI students containing code, notes, and resources.
-
-| Student | Description | Link |
-| :--- | :--- | :--- |
-| **Oriol Miró** | All code, labs, and reports... | [MAI-IMAS](https://github.com/oriolmirolf/MAI-IMAS) |
-| *(Add your name)* | *(Short description)* | *[Link](url)* |
+* **Oriol Miró** - [MAI-IMAS](https://github.com/oriolmirolf/MAI-IMAS)
+  * *All code, labs, and reports.*
 
 ---
 

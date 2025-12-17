@@ -3,12 +3,8 @@
 **Type:** Elective
 
 ## 👥 Student Repositories
-Collection of repositories from MAI students containing code, notes, and resources.
-
-| Student | Description | Link |
-| :--- | :--- | :--- |
-| **Oriol Miró** | All code, labs, and reports... | [MAI-DL](https://github.com/oriolmirolf/MAI-DL) |
-| *(Add your name)* | *(Short description)* | *[Link](url)* |
+* **Oriol Miró** - [MAI-DL](https://github.com/oriolmirolf/MAI-DL)
+  * *All code, labs, and reports.*
 
 ---
 
