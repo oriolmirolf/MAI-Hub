@@ -10,7 +10,7 @@ Most repositories here correspond to my personal coursework, for which I maintai
 
 ## 🗳 Contribute
 
-**We want you to participate!** This repository thrives on student collaboration. If you have better notes, good coursework, ... that you want to share (always respecting the plagiarism policy), please make a **Pull Request**!
+**We want you to participate!** This repository thrives on student collaboration. If you have better notes, good coursework, etc. that you want to share (always respecting the plagiarism policy), please make a **Pull Request**!
 
 If you decide to contribute, please read the guide [📖 CONTRIBUTING.md](CONTRIBUTING.md) first.
 
