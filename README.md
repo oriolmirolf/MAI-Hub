@@ -1,4 +1,4 @@
-# 🧠 MAI-Hub - Master in AI (UPC-UB-URV) Hub
+# MAI-Hub - Master in AI (UPC-UB-URV) Hub
 
 ![MAI Badge](https://img.shields.io/badge/MAI-UPC%20%7C%20UB%20%7C%20URV-blue)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
