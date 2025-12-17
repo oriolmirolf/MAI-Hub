@@ -6,6 +6,8 @@
 
 Welcome to the central repository for notes, labs, exams, and resources for the **Master in Artificial Intelligence (MAI)**. Here you will find an organised collection of things past students did and useful links 🔗.
 
+Most repositories here correspond to my personal coursework, for which I maintained a 9.5/10 average mark.
+
 ## 🗳 Contribute
 
 **We want you to participate!** This repository thrives on student collaboration. If you have better notes, good coursework, ... that you want to share (always respecting the plagiarism policy), please make a **Pull Request**!
