@@ -3,8 +3,6 @@
 **Type:** Elective
 
 ## 👥 Student Repositories
-* **Oriol Miró** - [MAI-ATCI](https://github.com/oriolmirolf/MAI-ATCI)
-  * *All code, labs, and reports.*
 
 ---
 
