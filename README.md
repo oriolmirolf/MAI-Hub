@@ -12,7 +12,7 @@ Welcome to the central repository for notes, labs, exams, and resources for the 
 
 ## 🗳 Contribute
 
-**We want you to participate!** This repository thrives on student collaboration. If you have better notes, good courework, ... that you want to share (always respecting the plagiarism policy), please make a **Pull Request**!
+**We want you to participate!** This repository thrives on student collaboration. If you have better notes, good coursework, ... that you want to share (always respecting the plagiarism policy), please make a **Pull Request**!
 
 If you decide to contribute, please read the guide [📖 CONTRIBUTING.md](CONTRIBUTING.md) first.
 
