@@ -44,7 +44,7 @@ Access the specific content by clicking on the links below.
 ## 🎨 Resources
 
 ### Useful Tools
-* **[MAI_Scheduler](https://mai-scheduler.streamlit.app)** - Finding a good schedule in MAI's Q2 is NP-Complete. I build this tool to make it easier for you!.
+* **[MAI_Scheduler](https://mai-scheduler.streamlit.app)** - Finding a good schedule in MAI's Q2 is NP-Complete. I built this tool to make it easier for you!.
 
 ### Important Links
 * [Official Master's Website (FIB)](https://masters.fib.upc.edu/masters/master-artificial-intelligence)
